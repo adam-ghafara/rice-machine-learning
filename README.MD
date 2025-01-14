@@ -1,3 +1,5 @@
+## Rice Machine Learning
+This Repository include the notebook itself and the dataset.
 ## Ensure that you installed these required python libraries for running this notebook.
 1. Tensorflow 2.18.0
 2. Pandas
