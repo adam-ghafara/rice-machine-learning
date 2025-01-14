@@ -1,4 +1,4 @@
-## Ensure that you these requirements for running this notebook.
+## Ensure that you installed these required python libraries for running this notebook.
 1. Tensorflow 2.18.0
 2. Pandas
 3. Matplotlib
